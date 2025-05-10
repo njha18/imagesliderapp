@@ -5,7 +5,6 @@
   border:2px solid grey;
 }
 .btn1{
-  display: flex;
   width:100px;
   cursor:pointer;
   padding:20px;
@@ -17,7 +16,6 @@
 
 }
 .btn2{
-  display: flex;
   width:100px;
   height:20px;
   cursor:pointer;
@@ -35,4 +33,12 @@
   display:flex;
   justify-content:center;
   align-items:center;
+}
+.display-block {
+  display: block;
+}
+
+/* Class for hidden images */
+.display-none {
+  display: none;
 }
